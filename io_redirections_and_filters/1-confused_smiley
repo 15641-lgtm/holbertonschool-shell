@@ -1,0 +1,2 @@
+#!/bin/bash
+printif '"(\xc3\xb4O)\'\n'
